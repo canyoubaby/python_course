@@ -1,0 +1,13 @@
+total 44
+drwxr-xr-x 2 hieu hieu 4096 Thg 5 13 13:51 .
+drwxr-xr-x 5 hieu hieu 4096 Thg 5 12 15:41 ..
+-rw-r--r-- 1 hieu hieu  127 Thg 5 13 12:50 boostrap.py
+-rw-r--r-- 1 hieu hieu   47 Thg 5 12 16:09 demofile.txt
+-rw-r--r-- 1 hieu hieu  112 Thg 5 13 13:23 ext1.py
+-rw-r--r-- 1 hieu hieu  153 Thg 5 13 13:42 ext2.py
+-rw-r--r-- 1 hieu hieu  135 Thg 5 13 13:50 ext3.py
+-rw-r--r-- 1 hieu hieu    0 Thg 5 13 13:53 list_file_out.txt
+-rw-r--r-- 1 hieu hieu 1282 Thg 5 13 13:46 meminfor.txt
+-rw-r--r-- 1 hieu hieu   26 Thg 5 13 13:26 out1.txt
+-rw-r--r-- 1 hieu hieu   65 Thg 5 13 13:51 out.txt
+-rw-r--r-- 1 hieu hieu   20 Thg 5 13 12:51 server.config
